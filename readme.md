@@ -7,7 +7,8 @@ facial expression classifier: face_and_emotion_detection - https://github.com/pr
 
 Preparing Steps:
 1. Install openpose (https://github.com/CMU-Perceptual-Computing-Lab/openpose).
-	https://www.youtube.com/watch?v=QC9GTb6Wsb4 is the video i used to setup my openpose under win10. Follow the instruction in the video.
+	https://www.youtube.com/watch?v=QC9GTb6Wsb4
+	https://www.programmersought.com/article/65535919191/ is the artical i used to setup my openpose under win10. Follow the instruction should be fine.
 
 2. Once you finish building up openpose, please download the folder “emotion_detector_models” (model comes from https://github.com/priya-dwivedi/face_and_emotion_detection
 ) and put the whole folder under the “build” folder (or whatever name you choose when create build directory through VS in the first step)
